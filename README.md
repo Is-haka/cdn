@@ -16,7 +16,7 @@ Simply visit the provided link, and you can obtain the CDN URL for any file in t
 
 ## Example
 
-For a file named `example.js`, you can generate a CDN link like this:
+For a file named `vendors.js`, you can generate a CDN link like this:
 
 ```bash
 https://cdn.jsdelivr.net/gh/is-haka/cdn@main/vendors.js
