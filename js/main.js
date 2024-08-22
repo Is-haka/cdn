@@ -1491,7 +1491,7 @@ const Select = (function() {
   function multipleSelect(target) {
     console.log(target)
     const button = target.querySelector('.js-button')
-    const title = button.querySelector('.js-button-title')
+    // const title = button.querySelector('.js-button-title')
     
     button.addEventListener('click', () => {
       let dropdown = target.querySelector('.js-dropdown')
